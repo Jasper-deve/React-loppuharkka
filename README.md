@@ -1,5 +1,5 @@
 # React-loppuharkka
-Simple notesapp 
+Simple notesapp
 npm install 
 npm run dev 
 
