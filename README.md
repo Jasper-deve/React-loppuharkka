@@ -2,3 +2,4 @@
 Simple notesapp 
 npm install 
 npm run dev 
+
